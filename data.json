@@ -6,8 +6,8 @@
       "name": "Stocks",
       "symbols": [
         {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
+          "name": "NASDAQ:AAPL",
+          "displayName": "AAPL - Apple"
         },
         {
           "name": "TSX:BB",
